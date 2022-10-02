@@ -17,12 +17,7 @@ public class Program
         // e.g. y0urp455w0rd 
         //string password = "***************";
 
-        // e.g. https://yourorg.crm.dynamics.com
-        string url = "https://org7ba21b0e.crm.dynamics.com/";
-        // e.g. you@yourorg.onmicrosoft.com
-        string userName = "SalvatoreAllegra@NoCo7775.onmicrosoft.com";
-        // e.g. y0urp455w0rd 
-        string password = "JediKnight1@7775";
+        
 
         string conn = $@"
         Url = {url};
